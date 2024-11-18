@@ -13,11 +13,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  Meu nome é Gabriel Costa, sigo com foco na carreira de Analista de Dados com Python</h3>
+<h3 align="center">👩‍💻  Meu nome é Gabriel Costa, sigo com foco na carreira de Analista de Dados com Python</h3>
 
 ###
 
-<p align="left">Estou no início da minha jornada no mundo da Analise de Dados, aprendendo as tecnologias essenciais para realizar uma análise e converter dados brutos em insights acionáveis. Inclui uma gama de ferramentas, tecnologias e processos usados ​​para encontrar tendências e resolver problemas usando dados. A análise de dados pode moldar os processos de negócios, melhorar a tomada de decisões e promover o crescimento dos negócios.</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gahcosta01/count.svg?"  />
+</div>
+
+###
+
+<p align="center">Estou no início da minha jornada no mundo da Analise de Dados, aprendendo as tecnologias essenciais para realizar uma análise e converter dados brutos em insights acionáveis. Inclui uma gama de ferramentas, tecnologias e processos usados ​​para encontrar tendências e resolver problemas usando dados. A análise de dados pode moldar os processos de negócios, melhorar a tomada de decisões e promover o crescimento dos negócios.</p>
 
 ###
 
