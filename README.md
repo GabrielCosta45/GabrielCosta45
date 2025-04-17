@@ -23,32 +23,15 @@
 
 
  
-### Main skills:
+<h3 align="center">Main skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,powerbi" />
-  </a>
-  </p>
-  
-  <p align="center">
-  <a href="https://github.com/microsoft/PowerBI-Icons">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/svg/Power-BI.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres,figma,flask,github" />
   </a>
 </p>
 
- 
-### Tools:
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=express&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=onlyoffice&labelColor=0D1117)&nbsp;
- 
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Opa! Contabilizou mais um visitante</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielCosta45}/count.svg" /></p> 
 <br></div>
 
