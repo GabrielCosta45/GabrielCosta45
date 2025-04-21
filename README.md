@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<h3 align="center">Main skills:</h3>
+<h3 align="center">Main skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres,figma,flask,github" />
